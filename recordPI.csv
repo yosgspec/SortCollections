@@ -1,0 +1,561 @@
+RUNTIMES, PLATFORM, TIMES, MS, TIMES/S, N, COMPLITE,
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), native, 716, 5002, 143.14274290283888, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bubble, 8, 5559, 1.4391077531930203, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), select, 8, 5608, 1.4265335235378032, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), insert, 24, 5180, 4.633204633204633, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), gnome, 14, 5225, 2.679425837320574, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), shaker, 8, 5148, 1.554001554001554, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), comb, 1312, 5001, 262.3475304939012, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), fshell, 9, 5052, 1.7814726840855108, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), heap, 717, 5005, 143.25674325674325, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), merge, 817, 5003, 163.30201878872677, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), quick, 1517, 5000, 303.4, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bucket, 945, 5004, 188.84892086330933, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), radix, 535, 5001, 106.97860427914416, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), pigeon, 7206, 5000, 1441.2, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bogo, 1, 22514, 0.044416807319889846, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), sleep, 2, 9908, 0.20185708518368994, true
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), native, 3843, 5000, 768.5999999999999, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bubble, 13, 5137, 2.530659918240218, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), select, 15, 5120, 2.9296875, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), insert, 39, 5059, 7.709033405811425, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), gnome, 32, 5071, 6.310392427529087, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), shaker, 17, 5176, 3.2843894899536323, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), comb, 1763, 5002, 352.45901639344265, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), fshell, 21, 5101, 4.116839835326407, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), heap, 1124, 5002, 224.71011595361855, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), merge, 1063, 5001, 212.55748850229955, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), quick, 2218, 5000, 443.6, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bucket, 1160, 5000, 232, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), radix, 327, 5006, 65.32161406312426, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), pigeon, 5896, 5000, 1179.2, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bogo, 1, 11497, 0.08697921196833956, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), sleep, 2, 9917, 0.20167389331451044, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1629, 5000, 325.79999999999995, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 1, 25055, 0.039912193175014966, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 1, 19574, 0.05108817819556555, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 1, 10465, 0.09555661729574773, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 1, 15635, 0.06395906619763352, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 1, 25637, 0.03900612396146195, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 42, 5045, 8.325074331020813, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 1, 15288, 0.06541077969649399, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 27, 5040, 5.357142857142857, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 34, 5034, 6.754072308303536, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 71, 5067, 14.012236037102822, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 398, 5008, 79.47284345047923, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 20, 5125, 3.902439024390244, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 370, 5007, 73.89654483722788, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 164532, 0.0060778450392628795, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9913, 0.20175527085645112, True
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), native, 714, 5001, 142.77144571085785, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bubble, 8, 5486, 1.4582573824279985, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), select, 8, 5585, 1.4324082363473591, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), insert, 24, 5172, 4.640371229698376, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), gnome, 14, 5232, 2.675840978593272, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), shaker, 8, 5147, 1.5543034777540317, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), comb, 1338, 5000, 267.6, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), fshell, 9, 5028, 1.7899761336515514, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), heap, 720, 5006, 143.82740711146624, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), merge, 813, 5001, 162.56748650269944, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), quick, 1523, 5001, 304.53909218156366, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bucket, 1091, 5003, 218.06915850489705, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), radix, 537, 5002, 107.35705717712915, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), pigeon, 7217, 5000, 1443.4, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bogo, 1, 22480, 0.04448398576512456, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), sleep, 2, 9908, 0.20185708518368994, true
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), native, 3807, 5000, 761.4, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bubble, 13, 5047, 2.575787596592035, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), select, 15, 5116, 2.9319781078967946, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), insert, 39, 5083, 7.672634271099745, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), gnome, 33, 5130, 6.432748538011697, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), shaker, 17, 5084, 3.3438237608182537, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), comb, 1801, 5001, 360.12797440511895, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), fshell, 21, 5165, 4.065827686350436, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), heap, 1099, 5003, 219.66819908055166, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), merge, 1089, 5003, 217.66939836098342, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), quick, 2277, 5000, 455.40000000000003, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bucket, 1172, 5000, 234.4, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), radix, 307, 5002, 61.37544982007197, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), pigeon, 5808, 5001, 1161.367726454709, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bogo, 1, 11155, 0.08964589870013447, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), sleep, 2, 9905, 0.20191822311963656, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1623, 5002, 324.4702119152339, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 1, 26878, 0.03720514919264826, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 1, 17212, 0.05809900069718801, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 1, 11486, 0.08706251088281386, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 1, 16021, 0.062418076274889205, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 1, 26875, 0.037209302325581395, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 40, 5081, 7.87246604999016, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 1, 13233, 0.07556865412227008, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 28, 5156, 5.430566330488752, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 33, 5000, 6.6, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 70, 5000, 14.0, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 383, 5003, 76.55406755946433, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 19, 5276, 3.601213040181956, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 362, 5005, 72.32767232767233, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 160551, 0.006228550429458552, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9914, 0.2017349203147065, True
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), native, 714, 5000, 142.8, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bubble, 8, 5484, 1.4587892049598834, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), select, 8, 5588, 1.4316392269148175, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), insert, 24, 5173, 4.639474192924802, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), gnome, 14, 5237, 2.673286232575902, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), shaker, 8, 5146, 1.554605518849592, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), comb, 1334, 5003, 266.64001599040574, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), fshell, 9, 5045, 1.78394449950446, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), heap, 713, 5000, 142.6, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), merge, 816, 5005, 163.03696303696304, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), quick, 1516, 5001, 303.1393721255749, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bucket, 1075, 5001, 214.95700859828034, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), radix, 539, 5009, 107.60630864444002, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), pigeon, 7157, 5000, 1431.4, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bogo, 1, 22639, 0.044171562348160255, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), sleep, 2, 9907, 0.20187746038154838, true
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), native, 3860, 5000, 772, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bubble, 13, 5073, 2.562586240883107, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), select, 15, 5115, 2.932551319648094, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), insert, 39, 5081, 7.675654398740406, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), gnome, 33, 5140, 6.420233463035019, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), shaker, 17, 5158, 3.2958511050794885, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), comb, 1818, 5000, 363.59999999999997, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), fshell, 21, 5136, 4.0887850467289715, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), heap, 1118, 5002, 223.51059576169533, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), merge, 1002, 5004, 200.2398081534772, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), quick, 2192, 5002, 438.2247101159536, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bucket, 994, 5000, 198.8, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), radix, 331, 5005, 66.13386613386614, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), pigeon, 3117, 5000, 623.4, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bogo, 1, 11505, 0.0869187309865276, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), sleep, 2, 9916, 0.20169423154497781, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1620, 5000, 324.0, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 1, 26152, 0.03823799327011319, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 1, 18883, 0.05295768680824022, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 1, 11589, 0.08628872206402623, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 1, 15622, 0.06401229035974908, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 1, 25789, 0.0387762224204118, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 42, 5062, 8.297115764519953, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 1, 16774, 0.05961607249314415, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 27, 5173, 5.219408467040402, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 34, 5024, 6.767515923566879, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 71, 5053, 14.051058776964181, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 390, 5011, 77.82877669127919, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 20, 5062, 3.9510075069142636, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 364, 5012, 72.62569832402235, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 164955, 0.006062259404079901, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9915, 0.20171457387796268, True
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), native, 716, 5003, 143.11413152108736, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bubble, 8, 5480, 1.4598540145985401, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), select, 8, 5585, 1.4324082363473591, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), insert, 24, 5188, 4.6260601387818046, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), gnome, 14, 5241, 2.6712459454302615, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), shaker, 8, 5141, 1.5561174868702585, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), comb, 1339, 5002, 267.69292283086764, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), fshell, 9, 5037, 1.7867778439547348, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), heap, 722, 5005, 144.25574425574425, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), merge, 817, 5005, 163.23676323676324, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), quick, 1522, 5000, 304.4, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bucket, 1076, 5004, 215.0279776179057, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), radix, 543, 5002, 108.55657736905238, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), pigeon, 7226, 5000, 1445.2, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bogo, 1, 22520, 0.04440497335701599, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), sleep, 2, 9906, 0.20189783969311528, true
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), native, 3810, 5001, 761.8476304739053, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bubble, 13, 5050, 2.5742574257425743, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), select, 15, 5117, 2.93140512018761, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), insert, 39, 5074, 7.686243594797004, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), gnome, 33, 5131, 6.431494835314753, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), shaker, 17, 5154, 3.298409002716337, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), comb, 1757, 5000, 351.4, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), fshell, 21, 5122, 4.099960952752832, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), heap, 1111, 5003, 222.06675994403358, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), merge, 1064, 5001, 212.75744851029793, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), quick, 2125, 5000, 425, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bucket, 962, 5002, 192.32307077169133, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), radix, 308, 5009, 61.48931922539429, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), pigeon, 3103, 5000, 620.6, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bogo, 1, 11368, 0.08796622097114708, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), sleep, 2, 9918, 0.20165355918531963, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1622, 5003, 324.2054767139716, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 1, 24673, 0.040530134154744046, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 1, 19872, 0.05032206119162641, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 1, 11140, 0.08976660682226212, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 1, 15663, 0.06384472961757007, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 1, 25723, 0.038875714341251026, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 41, 5117, 8.0125073285128, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 1, 15554, 0.06429214350006429, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 27, 5054, 5.342303126236644, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 35, 5098, 6.8654374264417415, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 71, 5061, 14.02884805374432, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 395, 5011, 78.82658152065456, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 19, 5065, 3.751233958538993, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 357, 5004, 71.34292565947243, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 164664, 0.006072972841665452, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9916, 0.20169423154497781, True
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), native, 713, 5005, 142.45754245754247, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bubble, 8, 5481, 1.459587666484218, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), select, 8, 5585, 1.4324082363473591, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), insert, 24, 5177, 4.635889511299981, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), gnome, 14, 5233, 2.675329638830499, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), shaker, 8, 5147, 1.5543034777540317, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), comb, 1334, 5002, 266.69332267093165, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), fshell, 9, 5032, 1.7885532591414945, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), heap, 715, 5005, 142.85714285714286, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), merge, 816, 5000, 163.20000000000002, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), quick, 1523, 5000, 304.59999999999997, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bucket, 1036, 5000, 207.2, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), radix, 540, 5007, 107.84901138406232, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), pigeon, 7193, 5000, 1438.6000000000001, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bogo, 1, 22928, 0.04361479413817167, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), sleep, 2, 9908, 0.20185708518368994, true
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), native, 3845, 5000, 769, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bubble, 13, 5046, 2.5762980578676182, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), select, 15, 5173, 2.899671370578001, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), insert, 39, 5073, 7.68775872264932, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), gnome, 33, 5131, 6.431494835314753, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), shaker, 17, 5141, 3.3067496595992996, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), comb, 1767, 5001, 353.32933413317335, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), fshell, 21, 5167, 4.0642539191019935, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), heap, 1119, 5000, 223.8, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), merge, 1033, 5004, 206.43485211830537, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), quick, 2286, 5001, 457.10857828434314, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bucket, 1148, 5004, 229.41646682653877, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), radix, 327, 5009, 65.2824915152725, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), pigeon, 5710, 5000, 1142, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bogo, 1, 11234, 0.08901548869503294, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), sleep, 2, 9914, 0.2017349203147065, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1628, 5000, 325.6, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 1, 27360, 0.03654970760233918, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 1, 19642, 0.050911312493636084, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 1, 11094, 0.09013881377321074, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 1, 15674, 0.06379992344009186, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 1, 24762, 0.040384460059769, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 42, 5082, 8.264462809917356, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 1, 15342, 0.06518055012384304, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 28, 5154, 5.43267365153279, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 33, 5042, 6.545021816739389, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 71, 5003, 14.19148510893464, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 394, 5000, 78.8, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 20, 5235, 3.8204393505253105, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 361, 5007, 72.09906131416018, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 164123, 0.006092991232185617, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9915, 0.20171457387796268, True
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), native, 716, 5006, 143.02836596084697, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bubble, 8, 5473, 1.4617211766855474, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), select, 8, 5602, 1.4280614066404855, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), insert, 24, 5190, 4.624277456647399, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), gnome, 14, 5227, 2.6784006122058543, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), shaker, 8, 5140, 1.556420233463035, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), comb, 1336, 5002, 267.093162734906, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), fshell, 9, 5037, 1.7867778439547348, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), heap, 719, 5005, 143.65634365634367, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), merge, 818, 5005, 163.43656343656343, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), quick, 1525, 5002, 304.8780487804878, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bucket, 1084, 5000, 216.79999999999998, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), radix, 540, 5006, 107.87055533359968, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), pigeon, 7235, 5000, 1447, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bogo, 1, 22598, 0.044251703690592094, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), sleep, 2, 9908, 0.20185708518368994, true
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), native, 3840, 5000, 768, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bubble, 13, 5208, 2.49615975422427, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), select, 15, 5138, 2.919423900350331, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), insert, 39, 5090, 7.662082514734774, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), gnome, 33, 5152, 6.40527950310559, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), shaker, 17, 5108, 3.3281127642913075, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), comb, 1799, 5002, 359.656137544982, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), fshell, 21, 5136, 4.0887850467289715, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), heap, 1158, 5005, 231.36863136863136, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), merge, 1046, 5002, 209.11635345861657, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), quick, 2330, 5000, 466, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bucket, 1169, 5002, 233.7065173930428, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), radix, 325, 5001, 64.9870025994801, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), pigeon, 6143, 5000, 1228.6, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bogo, 1, 11260, 0.08880994671403197, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), sleep, 2, 9912, 0.20177562550443906, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1627, 5002, 325.2698920431827, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 1, 26005, 0.03845414343395501, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 1, 20140, 0.04965243296921549, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 1, 11300, 0.08849557522123894, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 1, 17046, 0.058664789393406074, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 1, 25942, 0.03854752910338447, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 42, 5063, 8.295476989926922, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 1, 16517, 0.06054368226675546, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 27, 5028, 5.369928400954653, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 34, 5106, 6.658832745789268, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 70, 5036, 13.899920571882445, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 391, 5011, 78.02833765715427, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 19, 5101, 3.724759851009606, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 367, 5010, 73.25349301397206, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 165899, 0.006027763880433275, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9914, 0.2017349203147065, True
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), native, 717, 5004, 143.2853717026379, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bubble, 8, 5476, 1.4609203798392987, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), select, 8, 5599, 1.4288265761743169, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), insert, 24, 5182, 4.631416441528367, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), gnome, 14, 5238, 2.672775868652157, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), shaker, 8, 5142, 1.5558148580318942, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), comb, 1333, 5000, 266.6, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), fshell, 9, 5044, 1.7842981760507532, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), heap, 719, 5003, 143.71377173695782, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), merge, 818, 5004, 163.46922462030375, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), quick, 1516, 5003, 303.0181890865481, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bucket, 1091, 5002, 218.11275489804078, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), radix, 541, 5003, 108.13511892864281, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), pigeon, 7193, 5000, 1438.6000000000001, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bogo, 1, 22577, 0.044292864419542013, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), sleep, 2, 9907, 0.20187746038154838, true
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), native, 3800, 5000, 760, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bubble, 13, 5016, 2.59170653907496, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), select, 15, 5114, 2.9331247555729374, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), insert, 39, 5024, 7.762738853503185, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), gnome, 33, 5117, 6.4490912644127425, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), shaker, 17, 5073, 3.351074315000986, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), comb, 1819, 5001, 363.72725454909016, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), fshell, 21, 5100, 4.11764705882353, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), heap, 1142, 5004, 228.21742605915267, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), merge, 1067, 5003, 213.27203677793324, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), quick, 2262, 5000, 452.40000000000003, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bucket, 1150, 5002, 229.90803678528587, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), radix, 316, 5009, 63.08644440007985, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), pigeon, 5725, 5000, 1145, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bogo, 1, 11307, 0.08844078889183692, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), sleep, 2, 9905, 0.20191822311963656, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1550, 5001, 309.9380123975205, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 1, 27165, 0.036812074360390204, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 1, 19379, 0.051602249858093814, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 1, 11431, 0.08748141020033243, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 1, 16523, 0.060521697028384676, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 1, 25247, 0.03960866637620311, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 42, 5058, 8.30367734282325, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 1, 16042, 0.06233636703652911, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 28, 5176, 5.4095826893353935, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 35, 5068, 6.906077348066298, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 70, 5023, 13.935894883535735, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 401, 5002, 80.16793282686925, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 20, 5015, 3.9880358923230306, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 372, 5004, 74.34052757793765, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 163506, 0.006115983511308453, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9913, 0.20175527085645112, True
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), native, 715, 5001, 142.97140571885623, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bubble, 8, 5479, 1.4601204599379447, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), select, 8, 5582, 1.4331780723754926, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), insert, 24, 5174, 4.6385775028991105, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), gnome, 14, 5226, 2.6789131266743205, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), shaker, 8, 5150, 1.5533980582524274, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), comb, 1338, 5003, 267.4395362782331, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), fshell, 9, 5021, 1.7924716191993626, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), heap, 715, 5000, 143, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), merge, 820, 5004, 163.86890487609912, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), quick, 1523, 5000, 304.59999999999997, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bucket, 1081, 5003, 216.07035778532878, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), radix, 534, 5005, 106.6933066933067, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), pigeon, 7223, 5000, 1444.6000000000001, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bogo, 1, 22493, 0.044458275908060285, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), sleep, 2, 9907, 0.20187746038154838, true
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), native, 3772, 5000, 754.4, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bubble, 13, 5130, 2.53411306042885, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), select, 15, 5125, 2.926829268292683, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), insert, 39, 5065, 7.699901283316881, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), gnome, 33, 5135, 6.426484907497565, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), shaker, 17, 5166, 3.290747193186218, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), comb, 1797, 5000, 359.4, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), fshell, 21, 5146, 4.080839486980179, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), heap, 1135, 5002, 226.9092363054778, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), merge, 1039, 5001, 207.75844831033794, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), quick, 2305, 5000, 461, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bucket, 1179, 5003, 235.65860483709776, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), radix, 326, 5001, 65.1869626074785, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), pigeon, 5858, 5000, 1171.6, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bogo, 1, 11168, 0.08954154727793696, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), sleep, 2, 9913, 0.20175527085645112, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1620, 5001, 323.9352129574085, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 1, 25939, 0.03855198735494815, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 1, 19376, 0.051610239471511145, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 1, 11583, 0.086333419666753, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 1, 16029, 0.06238692370079231, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 1, 24552, 0.04072987943955686, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 42, 5077, 8.272601930273785, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 1, 15461, 0.06467886941336265, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 26, 5028, 5.171042163882259, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 32, 5022, 6.371963361210673, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 70, 5004, 13.98880895283773, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 402, 5005, 80.31968031968032, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 20, 5198, 3.847633705271258, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 360, 5007, 71.8993409227082, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 165685, 0.006035549385882849, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9918, 0.20165355918531963, True
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), native, 716, 5004, 143.0855315747402, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bubble, 8, 5473, 1.4617211766855474, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), select, 8, 5632, 1.4204545454545454, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), insert, 24, 5178, 4.634994206257242, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), gnome, 14, 5234, 2.6748184944593043, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), shaker, 8, 5138, 1.557026080186843, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), comb, 1338, 5001, 267.5464907018596, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), fshell, 9, 5007, 1.797483523067705, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), heap, 722, 5005, 144.25574425574425, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), merge, 817, 5005, 163.23676323676324, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), quick, 1519, 5001, 303.7392521495701, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bucket, 1064, 5002, 212.71491403438625, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), radix, 543, 5007, 108.44817255841821, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), pigeon, 7156, 5001, 1430.9138172365529, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bogo, 1, 22611, 0.04422626155411083, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), sleep, 2, 9907, 0.20187746038154838, true
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), native, 3701, 5000, 740.1999999999999, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bubble, 13, 5143, 2.5277075636787867, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), select, 15, 5087, 2.9486927462158445, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), insert, 39, 5067, 7.696862048549438, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), gnome, 32, 5002, 6.397441023590564, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), shaker, 17, 5105, 3.3300685602350635, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), comb, 1767, 5000, 353.4, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), fshell, 21, 5160, 4.069767441860465, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), heap, 1124, 5002, 224.71011595361855, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), merge, 999, 5002, 199.7201119552179, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), quick, 2136, 5001, 427.11457708458306, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bucket, 1011, 5001, 202.1595680863827, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), radix, 319, 5002, 63.774490203918425, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), pigeon, 3140, 5000, 628, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bogo, 1, 11870, 0.08424599831508003, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), sleep, 2, 9916, 0.20169423154497781, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1614, 5002, 322.67093162734903, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 1, 24693, 0.04049730692908922, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 1, 17182, 0.05820044232336166, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 1, 11595, 0.086244070720138, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 1, 16189, 0.06177033788374823, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 1, 25875, 0.03864734299516908, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 39, 5028, 7.756563245823389, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 1, 15465, 0.06466214031684449, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 27, 5128, 5.265210608424337, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 34, 5104, 6.661442006269593, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 71, 5066, 14.01500197394394, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 388, 5009, 77.46057097224995, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 19, 5019, 3.785614664275752, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 356, 5004, 71.14308553157474, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 163728, 0.0061076908042607255, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9914, 0.2017349203147065, True
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), native, 713, 5006, 142.42908509788253, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bubble, 8, 5488, 1.4577259475218658, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), select, 8, 5586, 1.4321518080916578, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), insert, 24, 5188, 4.6260601387818046, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), gnome, 14, 5233, 2.675329638830499, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), shaker, 8, 5144, 1.5552099533437014, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), comb, 1334, 5003, 266.64001599040574, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), fshell, 9, 5036, 1.7871326449563145, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), heap, 718, 5000, 143.6, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), merge, 814, 5003, 162.7023785728563, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), quick, 1516, 5001, 303.1393721255749, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bucket, 1068, 5000, 213.60000000000002, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), radix, 537, 5006, 107.27127447063523, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), pigeon, 7183, 5000, 1436.6000000000001, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), bogo, 1, 22579, 0.044288941051419464, true
+TypeScript/Node.js v16.13.0 (arm), Linux 5.10.63-v7l+ (arm), sleep, 2, 9907, 0.20187746038154838, true
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), native, 3857, 5000, 771.4, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bubble, 13, 5162, 2.5184037194885707, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), select, 15, 5142, 2.9171528588098017, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), insert, 39, 5072, 7.6892744479495265, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), gnome, 32, 5031, 6.360564500099383, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), shaker, 17, 5177, 3.283755070504153, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), comb, 1715, 5002, 342.8628548580568, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), fshell, 21, 5122, 4.099960952752832, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), heap, 1147, 5002, 229.30827668932426, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), merge, 1010, 5002, 201.91923230707718, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), quick, 2164, 5000, 432.8, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bucket, 1020, 5004, 203.8369304556355, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), radix, 308, 5006, 61.526168597682776, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), pigeon, 3239, 5000, 647.8000000000001, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), bogo, 1, 11324, 0.08830801836806781, True
+C#/.NET 5.0.0 (Arm), Unix 5.10.63.7 (Arm), sleep, 2, 9913, 0.20175527085645112, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1625, 5001, 324.9350129974005, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 1, 24898, 0.040163868583821996, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 1, 17364, 0.05759041695461875, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 1, 11063, 0.09039139473922082, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 1, 15868, 0.06301991429291656, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 1, 25326, 0.03948511411197979, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 42, 5083, 8.262836907338187, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 1, 15829, 0.0631751847874155, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 27, 5036, 5.361397934868944, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 34, 5050, 6.732673267326732, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 71, 5021, 14.140609440350527, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 386, 5009, 77.06128967857856, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 19, 5017, 3.7871237791508867, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 360, 5011, 71.84194771502695, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 162413, 0.006157142593265318, True
+Python/Python3 3.7.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9915, 0.20171457387796268, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1602, 5001, 320.3359328134373, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 6, 5952, 1.0080645161290323, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 5, 5175, 0.966183574879227, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 13, 5174, 2.512562814070352, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 12, 5386, 2.227998514667657, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 6, 5517, 1.087547580206634, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 1026, 5000, 205.2, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 3, 6698, 0.4478948939982084, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 127, 5022, 25.288729589804856, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 414, 5009, 82.65122778997804, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 306, 5004, 61.15107913669065, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 592, 5014, 118.0694056641404, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 171, 5021, 34.05696076478789, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 5835, 5000, 1167.0, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 45775, 0.02184598580010923, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9965, 0.20070245860511793, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1602, 5001, 320.3359328134373, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 6, 5949, 1.0085728693898135, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 5, 5173, 0.9665571235260003, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 13, 5173, 2.513048521167601, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 12, 5387, 2.2275849266753296, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 6, 5523, 1.0863661053775122, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 1027, 5003, 205.2768338996602, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 3, 6698, 0.4478948939982084, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 124, 5013, 24.735687213245562, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 415, 5008, 82.86741214057508, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 303, 5006, 60.527367159408705, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 593, 5004, 118.50519584332534, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 170, 5023, 33.84431614572964, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 5756, 5000, 1151.2, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 47285, 0.021148355715343133, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9960, 0.20080321285140562, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1604, 5002, 320.671731307477, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 6, 5951, 1.008233910267182, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 5, 5205, 0.9606147934678194, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 13, 5198, 2.500961908426318, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 12, 5390, 2.226345083487941, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 6, 5525, 1.0859728506787332, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 1025, 5001, 204.95900819836032, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 3, 6702, 0.4476275738585497, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 112, 5009, 22.359752445597923, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 409, 5003, 81.75094943034179, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 299, 5011, 59.66872879664738, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 589, 5006, 117.65880942868557, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 168, 5014, 33.50618268847227, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 5640, 5000, 1128.0, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 48339, 0.02068722977306109, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9959, 0.2008233758409479, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1596, 5002, 319.07237105157935, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 6, 5976, 1.004016064257028, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 5, 5191, 0.9632055480639569, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 13, 5191, 2.504334424966288, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 12, 5405, 2.2201665124884364, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 6, 5541, 1.0828370330265296, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 1014, 5001, 202.75944811037795, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 3, 6720, 0.4464285714285714, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 124, 5002, 24.790083966413437, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 386, 5011, 77.03053282777888, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 299, 5001, 59.7880423915217, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 590, 5000, 118.0, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 166, 5001, 33.19336132773446, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 5763, 5002, 1152.139144342263, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 45350, 0.022050716648291068, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9961, 0.20078305391024998, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), native, 1588, 5002, 317.4730107956817, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bubble, 5, 5005, 0.999000999000999, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), select, 5, 5172, 0.9667440061871616, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), insert, 13, 5175, 2.51207729468599, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), gnome, 12, 5404, 2.2205773501110286, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), shaker, 6, 5522, 1.0865628395508873, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), comb, 1028, 5001, 205.5588882223555, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), fshell, 3, 6699, 0.4478280340349306, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), heap, 129, 5003, 25.78452928243054, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), merge, 418, 5004, 83.53317346123102, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), quick, 300, 5000, 60.0, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bucket, 589, 5005, 117.68231768231769, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), radix, 170, 5029, 33.80393716444621, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), pigeon, 5779, 5000, 1155.8, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), bogo, 1, 42816, 0.02335575485799701, True
+Python/PyPy3 3.5.3 (32bit), Linux-5.10.63-v7l+-armv7l-with-debian-10.11 (armv7l), sleep, 2, 9978, 0.20044097013429546, True
