@@ -1,0 +1,689 @@
+RUNTIMES, PLATFORM, TIMES, MS, TIMES/S, N, COMPLITE,
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 1972, 5002, 394.2423030787685, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 27, 5076, 5.319148936170213, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 24, 5139, 4.670169293636894, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 119, 5030, 23.658051689860834, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 61, 5185, 11.76470588235294, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 32, 5048, 6.3391442155309035, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4399, 5000, 879.8000000000001, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 45, 5021, 8.962358095996812, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 3577, 5000, 715.4000000000001, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2170, 5001, 433.9132173565287, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 32320, 5000, 6464, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 6205, 0.8058017727639001, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9921, 0.20159258139300473, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2158, 5000, 431.59999999999997, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2812, 5001, 562.2875424915017, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4016, 5000, 803.2, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8433, 5000, 1686.6000000000001, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 28, 5090, 5.50098231827112, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 40, 5074, 7.883326763894364, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 172, 5021, 34.25612427803226, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 111, 5027, 22.080763875074595, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 41, 5049, 8.120419885125768, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 4594, 5000, 918.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 72, 5039, 14.288549315340346, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4107, 5000, 821.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4054, 5000, 810.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6066, 5000, 1213.2, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 6752, 5000, 1350.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 1992, 5001, 398.32033593281346, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 25393, 5000, 5078.599999999999, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6862, 1.1658408627222385, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9924, 0.20153164046755342, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3253, 5000, 650.5999999999999, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 16, 5055, 3.165182987141444, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 19, 5223, 3.6377560788818686, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 8350, 0.23952095808383234, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 8636, 0.2315886984715146, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 17, 5295, 3.2105760151085927, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2553, 5000, 510.6000000000001, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 14738, 0.06785181164337088, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 519, 5008, 103.63418530351437, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1435, 5015, 286.14157527417746, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1577, 5002, 315.2738904438225, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2136, 5001, 427.11457708458306, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 491, 5005, 98.1018981018981, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 17445, 5000, 3489.0, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5610, 0.8912655971479501, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9927, 0.20147073637554144, True
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 1935, 5000, 387, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 68, 5054, 13.454689354966362, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 33, 5035, 6.554121151936445, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4349, 5000, 869.8000000000001, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 40, 5030, 7.952286282306162, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2239, 5000, 447.79999999999995, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2806, 5001, 561.0877824435113, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 29, 5046, 5.747126436781609, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 4053, 5001, 810.4379124175165, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2301, 5001, 460.10797840431917, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4109, 5000, 821.8, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 33971, 5000, 6794.2, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 137, 5032, 27.225755166931634, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 30, 5072, 5.914826498422713, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 5711, 0.8755034144633165, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9910, 0.20181634712411706, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8635, 5000, 1727, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 28, 5094, 5.496662740478995, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 42, 5009, 8.384907167099222, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 175, 5002, 34.986005597760894, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 113, 5013, 22.54139237981249, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 41, 5119, 8.009376831412386, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 5237, 5000, 1047.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 82, 5061, 16.202331555028653, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4260, 5000, 852, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4132, 5000, 826.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6224, 5000, 1244.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 7174, 5000, 1434.8000000000002, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 2015, 5000, 403, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 28412, 5000, 5682.400000000001, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6568, 1.2180267965895248, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9917, 0.20167389331451044, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3894, 5000, 778.8000000000001, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 19, 5063, 3.7527157811574168, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 23, 5162, 4.455637349864394, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 7824, 0.2556237218813906, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 7837, 0.25519969376036744, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 17, 5050, 3.366336633663366, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2657, 5000, 531.4, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 12368, 0.08085381630012937, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 711, 5002, 142.14314274290285, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1559, 5001, 311.7376524695061, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1861, 5001, 372.125574885023, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2590, 5005, 517.4825174825176, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 667, 5013, 133.05405944544185, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 18575, 5000, 3715.0, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5433, 0.9203018590097553, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9935, 0.20130850528434827, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3718, 5001, 743.4513097380524, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 1, 7851, 0.1273723092599669, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 1, 5063, 0.19751135690302193, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 6661, 0.3002552169343943, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 9691, 0.20637705087194305, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 1, 7596, 0.13164823591363875, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 138, 5027, 27.451760493335986, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 2, 8074, 0.24770869457517958, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 87, 5032, 17.28934817170111, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 141, 5008, 28.15495207667732, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 255, 5007, 50.928699820251644, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 1401, 5001, 280.1439712057589, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 65, 5014, 12.963701635420822, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 1200, 5000, 240.0, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 1, 40339, 0.024789905550459852, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9903, 0.20195900232252853, True
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 2058, 5000, 411.6, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 71, 5025, 14.129353233830846, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 35, 5145, 6.802721088435374, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4466, 5000, 893.2, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 41, 5057, 8.10757366027289, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2238, 5000, 447.6, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2894, 5001, 578.6842631473705, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4213, 5000, 842.6, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 4113, 5001, 822.4355128974206, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2310, 5001, 461.9076184763047, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 31, 5155, 6.0135790494665375, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 34063, 5000, 6812.599999999999, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 30, 5048, 5.942947702060222, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 142, 5007, 28.360295586179348, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 5625, 0.888888888888889, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9917, 0.20167389331451044, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8787, 5000, 1757.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 29, 5153, 5.627789637104599, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 43, 5024, 8.55891719745223, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 180, 5021, 35.84943238398725, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 116, 5038, 23.025009924573244, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 42, 5073, 8.27912477823773, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 5310, 5000, 1062, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 82, 5037, 16.27953146714314, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4280, 5000, 856, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4321, 5000, 864.1999999999999, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6234, 5000, 1246.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 7195, 5000, 1439, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 2173, 5001, 434.5130973805239, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 27956, 5000, 5591.2, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6644, 1.2040939193257074, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9904, 0.20193861066235866, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 4052, 5000, 810.4, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 19, 5033, 3.775084442678323, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 23, 5123, 4.489556900253757, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 7801, 0.25637738751442124, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 7858, 0.2545176889793841, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 17, 5031, 3.379049890677798, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2638, 5000, 527.5999999999999, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 12208, 0.08191349934469201, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 701, 5000, 140.2, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1595, 5001, 318.9362127574485, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1858, 5001, 371.52569486102783, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2610, 5002, 521.7912834866053, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 635, 5008, 126.79712460063897, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 18209, 5000, 3641.7999999999997, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5406, 0.9248982611912689, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9914, 0.2017349203147065, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3836, 5000, 767.2, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 1, 7855, 0.1273074474856779, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 1, 5103, 0.1959631589261219, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 6714, 0.29788501638367587, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 9738, 0.20538098172109262, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 1, 7606, 0.1314751511964239, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 139, 5032, 27.623211446740857, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 2, 8052, 0.24838549428713363, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 87, 5049, 17.2311348781937, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 139, 5008, 27.755591054313097, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 249, 5001, 49.79004199160168, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 1358, 5000, 271.6, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 64, 5051, 12.670758265689962, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 1159, 5003, 231.66100339796122, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 1, 40783, 0.0245200205968173, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9915, 0.20171457387796268, True
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 2029, 5000, 405.8, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 29, 5043, 5.750545310331153, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 30, 5114, 5.866249511145875, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 139, 5012, 27.73343974461293, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 70, 5069, 13.809429867824027, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2174, 5001, 434.71305738852226, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2781, 5001, 556.0887822435513, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 40, 5021, 7.966540529774946, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 3865, 5000, 773, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2157, 5001, 431.3137372525495, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 33617, 5000, 6723.4, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 33, 5026, 6.565857540787903, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4061, 5000, 812.2, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4429, 5001, 885.622875424915, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 5901, 0.8473140145738011, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9927, 0.20147073637554144, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8670, 5000, 1734, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 28, 5084, 5.507474429583006, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 42, 5017, 8.371536774965119, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 176, 5006, 35.1578106272473, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 113, 5032, 22.456279809220984, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 41, 5097, 8.04394742005101, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 5138, 5000, 1027.6000000000001, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 81, 5060, 16.007905138339922, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4125, 5000, 825, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4072, 5000, 814.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6024, 5000, 1204.8000000000002, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 6893, 5000, 1378.6000000000001, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 2084, 5001, 416.71665666866625, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 25947, 5000, 5189.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6767, 1.1822077730161076, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9915, 0.20171457387796268, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3992, 5000, 798.4, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 19, 5144, 3.6936236391912907, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 23, 5222, 4.404442742244351, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 8035, 0.2489110143123833, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 8013, 0.2495944090852365, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 17, 5126, 3.316426063207179, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2600, 5002, 519.7920831667333, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 12669, 0.07893282816323308, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 581, 5005, 116.08391608391608, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1532, 5002, 306.2774890043982, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1753, 5000, 350.6, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2299, 5000, 459.8, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 630, 5000, 126.0, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 18224, 5000, 3644.8, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5326, 0.938790837401427, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9917, 0.20167389331451044, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3841, 5000, 768.2, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 1, 7836, 0.12761613067891783, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 2, 10063, 0.19874788830368678, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 6700, 0.2985074626865672, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 9679, 0.20663291662361816, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 1, 7592, 0.13171759747102213, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 140, 5033, 27.81641168289291, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 2, 8153, 0.24530847540782533, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 87, 5023, 17.3203264981087, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 140, 5021, 27.882891854212307, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 254, 5017, 50.627865258122384, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 1427, 5002, 285.2858856457417, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 68, 5007, 13.580986618733773, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 1198, 5000, 239.6, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 1, 39585, 0.025262094227611467, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9908, 0.20185708518368994, True
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 2059, 5002, 411.63534586165537, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 71, 5045, 14.073339940535183, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 34, 5014, 6.781013163143199, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4492, 5000, 898.4, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 41, 5066, 8.093170153967627, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 31, 5137, 6.034650574265135, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2876, 5000, 575.2, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4218, 5000, 843.6, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 30, 5045, 5.946481665014866, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 4137, 5000, 827.4, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2249, 5000, 449.79999999999995, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 143, 5024, 28.463375796178344, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2323, 5001, 464.5070985802839, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 34571, 5000, 6914.2, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 5673, 0.8813678829543451, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9920, 0.20161290322580644, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8865, 5000, 1773, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 37, 5072, 7.294952681388012, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 42, 5088, 8.254716981132075, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 179, 5002, 35.78568572570972, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 115, 5022, 22.899243329350856, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 46, 5061, 9.089112823552659, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 5292, 5000, 1058.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 78, 5008, 15.575079872204473, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4284, 5001, 856.628674265147, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4321, 5000, 864.1999999999999, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6239, 5000, 1247.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 7238, 5000, 1447.6, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 2124, 5000, 424.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 28493, 5000, 5698.599999999999, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6561, 1.2193263222069808, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9909, 0.20183671409829448, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 4059, 5000, 811.8, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 19, 5041, 3.7690934338424915, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 23, 5125, 4.48780487804878, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 7841, 0.2550695064405051, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 7853, 0.25467974022666495, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 17, 5227, 3.25234360053568, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2540, 5000, 508.0, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 12453, 0.08030193527664017, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 650, 5003, 129.92204677193683, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1592, 5000, 318.40000000000003, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1881, 5002, 376.04958016793285, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2619, 5002, 523.5905637744902, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 623, 5000, 124.60000000000001, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 16599, 5000, 3319.7999999999997, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5453, 0.9169264624977076, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9926, 0.20149103364900262, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3822, 5000, 764.4, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 1, 7826, 0.1277791975466394, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 2, 10024, 0.19952114924181966, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 6656, 0.3004807692307693, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 9693, 0.2063344681729083, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 1, 7598, 0.13161358252171623, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 138, 5003, 27.583449930041972, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 2, 8069, 0.24786218862312553, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 87, 5012, 17.35833998403831, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 141, 5031, 28.026237328562907, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 254, 5009, 50.70872429626672, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 1422, 5001, 284.34313137372527, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 68, 5040, 13.492063492063492, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 1183, 5003, 236.45812512492503, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 1, 39811, 0.02511868579035945, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9900, 0.20202020202020202, True
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 2070, 5001, 413.9172165566887, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 71, 5025, 14.129353233830846, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 34, 5023, 6.7688632291459285, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 31, 5139, 6.0323020042809885, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 30, 5074, 5.912495072920773, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4481, 5000, 896.2, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 143, 5023, 28.469042404937287, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 41, 5068, 8.08997632202052, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2243, 5001, 448.51029794041193, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2308, 5001, 461.50769846030795, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 34640, 5000, 6928, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 4034, 5000, 806.8, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2870, 5000, 574, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4222, 5000, 844.4000000000001, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 5694, 0.8781173164734809, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9908, 0.20185708518368994, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8948, 5000, 1789.6000000000001, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 29, 5171, 5.608199574550377, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 34, 5080, 6.692913385826771, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 180, 5026, 35.813768404297655, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 115, 5007, 22.967845016976234, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 42, 5079, 8.269344359125812, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 5319, 5000, 1063.8000000000002, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 82, 5050, 16.237623762376238, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4293, 5000, 858.6, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4295, 5000, 859, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6211, 5000, 1242.2, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 7254, 5000, 1450.8000000000002, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 2182, 5001, 436.31273745250945, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 28445, 5000, 5689, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6525, 1.2260536398467432, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9914, 0.2017349203147065, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 4059, 5000, 811.8, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 19, 5044, 3.766851704996035, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 23, 5140, 4.474708171206226, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 7827, 0.25552574421873003, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 7801, 0.25637738751442124, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 17, 5037, 3.375024816358944, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2683, 5000, 536.5999999999999, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 12402, 0.08063215610385421, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 707, 5004, 141.28697042366107, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1593, 5000, 318.6, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1904, 5000, 380.8, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2574, 5001, 514.6970605878824, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 645, 5005, 128.87112887112886, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 17962, 5000, 3592.4, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5306, 0.9423294383716547, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9933, 0.20134903855834088, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3839, 5000, 767.8000000000001, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 1, 7856, 0.12729124236252545, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 1, 5081, 0.196811651249754, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 6641, 0.3011594639361542, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 9690, 0.20639834881320948, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 1, 7611, 0.1313887793982394, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 140, 5022, 27.877339705296695, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 2, 8102, 0.24685262898049865, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 87, 5034, 17.28247914183552, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 141, 5024, 28.06528662420382, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 251, 5001, 50.18996200759848, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 1413, 5003, 282.43054167499497, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 69, 5042, 13.685045616818723, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 1192, 5003, 238.2570457725365, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 1, 39715, 0.02517940324814302, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9907, 0.20187746038154838, True
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 2071, 5001, 414.11717656468704, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 71, 5024, 14.132165605095542, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 34, 5009, 6.787781992413655, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4504, 5000, 900.8000000000001, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 41, 5072, 8.083596214511042, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 30, 5021, 5.9749053973312085, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2889, 5001, 577.6844631073785, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4232, 5000, 846.4000000000001, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 4110, 5000, 822, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2329, 5000, 465.8, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 34624, 5000, 6924.8, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 143, 5032, 28.418124006359303, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 31, 5124, 6.049960967993755, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2247, 5001, 449.3101379724055, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 5639, 0.8866820358219542, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9921, 0.20159258139300473, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8980, 5000, 1796, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 29, 5132, 5.6508183943881525, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 34, 5094, 6.674519042010208, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 180, 5017, 35.87801474985051, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 116, 5040, 23.015873015873016, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 47, 5068, 9.273875295974744, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 5332, 5000, 1066.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 114, 5021, 22.704640509858596, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4274, 5000, 854.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4262, 5001, 852.2295540891822, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6231, 5000, 1246.2, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 7237, 5000, 1447.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 2031, 5001, 406.1187762447511, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 28337, 5000, 5667.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6597, 1.2126724268606943, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9910, 0.20181634712411706, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 4057, 5000, 811.4, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 19, 5022, 3.783353245718837, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 23, 5132, 4.481683554169914, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 7798, 0.25647601949217746, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 7864, 0.25432349949135297, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 17, 5044, 3.3703409992069786, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2661, 5000, 532.2, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 12278, 0.0814464896562958, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 600, 5006, 119.85617259288853, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1585, 5002, 316.87325069972013, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1872, 5001, 374.3251349730054, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2533, 5000, 506.6, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 648, 5003, 129.52228662802318, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 17615, 5000, 3523.0, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5316, 0.9405568096313017, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9937, 0.20126798832645668, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3837, 5000, 767.4, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 1, 7852, 0.1273560876209883, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 2, 9991, 0.20018016214593135, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 6678, 0.2994908655286014, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 9673, 0.20676108756332057, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 1, 7601, 0.13156163662675965, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 139, 5011, 27.738974256635405, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 2, 8114, 0.24648755237860487, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 88, 5050, 17.425742574257427, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 141, 5034, 28.009535160905838, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 253, 5005, 50.54945054945055, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 1426, 5002, 285.08596561375447, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 67, 5016, 13.35725677830941, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 1195, 5002, 238.9044382247101, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 1, 39750, 0.025157232704402517, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9911, 0.20179598425991324, True
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 2070, 5000, 414, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 71, 5026, 14.126541981695185, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 34, 5010, 6.786427145708583, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4495, 5000, 899, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 41, 5068, 8.08997632202052, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2242, 5000, 448.40000000000003, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 143, 5028, 28.44073190135243, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 30, 5051, 5.93941793704217, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 4098, 5000, 819.6, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2883, 5000, 576.6, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 34613, 5000, 6922.6, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2327, 5000, 465.4, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4210, 5000, 842, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 31, 5138, 6.033476060724017, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 5676, 0.8809020436927414, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9909, 0.20183671409829448, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8965, 5000, 1793, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 29, 5144, 5.637636080870918, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 43, 5104, 8.424764890282132, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 180, 5014, 35.899481451934584, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 115, 5012, 22.944932162809256, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 42, 5001, 8.398320335932814, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 5287, 5000, 1057.3999999999999, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 78, 5028, 15.513126491646778, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4279, 5000, 855.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4293, 5001, 858.4283143371326, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6262, 5000, 1252.3999999999999, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 7241, 5000, 1448.1999999999998, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 2133, 5000, 426.59999999999997, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 28216, 5000, 5643.2, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6555, 1.2204424103737606, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9907, 0.20187746038154838, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 4063, 5000, 812.6, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 19, 5030, 3.7773359840954273, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 23, 5135, 4.47906523855891, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 7874, 0.254000508001016, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 7901, 0.25313251487153526, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 17, 5034, 3.377036154151768, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2711, 5001, 542.0915816836632, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 12535, 0.07977662544874352, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 708, 5016, 141.14832535885165, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1597, 5001, 319.3361327734453, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1878, 5001, 375.5248950209958, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2617, 5000, 523.4, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 645, 5009, 128.76821720902376, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 18391, 5000, 3678.2, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5355, 0.9337068160597572, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9919, 0.20163322915616494, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3822, 5000, 764.4, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 1, 7823, 0.1278281989006775, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 2, 10018, 0.19964064683569574, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 6656, 0.3004807692307693, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 9707, 0.2060368806016277, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 1, 7596, 0.13164823591363875, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 140, 5027, 27.84961209468868, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 2, 8065, 0.24798512089274644, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 87, 5011, 17.361804031131513, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 141, 5027, 28.04853789536503, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 253, 5010, 50.49900199600798, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 1421, 5000, 284.2, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 65, 5054, 12.861100118717847, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 1197, 5001, 239.35212957408518, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 1, 40066, 0.024958817950381868, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9897, 0.2020814388198444, True
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 2069, 5002, 413.6345461815274, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 71, 5033, 14.106894496324259, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 35, 5145, 6.802721088435374, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4522, 5000, 904.4, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 41, 5064, 8.096366508688783, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2245, 5000, 449, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 143, 5031, 28.42377260981912, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4211, 5000, 842.1999999999999, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 2148, 5001, 429.5140971805639, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2292, 5002, 458.2167133146741, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 34477, 5000, 6895.400000000001, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2888, 5000, 577.6, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 5575, 0.8968609865470852, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 30, 5032, 5.961844197138316, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 31, 5122, 6.0523233112065595, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9921, 0.20159258139300473, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8954, 5000, 1790.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 37, 5074, 7.292077256602286, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 43, 5096, 8.437990580847723, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 180, 5022, 35.842293906810035, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 115, 5000, 23, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 46, 5076, 9.062253743104806, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 5289, 5000, 1057.8000000000002, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 78, 5017, 15.54713972493522, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4289, 5000, 857.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4319, 5000, 863.8000000000001, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6258, 5000, 1251.6000000000001, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 7238, 5000, 1447.6, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 2132, 5000, 426.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 28633, 5000, 5726.6, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6548, 1.2217470983506415, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9931, 0.2013895881582922, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 4045, 5000, 809.0, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 19, 5025, 3.781094527363184, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 26, 5066, 5.132254243979471, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 7958, 0.25131942699170645, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 7850, 0.25477707006369427, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 18, 5253, 3.426613363792119, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2681, 5000, 536.2, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 12266, 0.08152616990053807, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 725, 5005, 144.85514485514486, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1584, 5000, 316.8, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1852, 5002, 370.2518992403039, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2563, 5000, 512.5999999999999, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 616, 5005, 123.07692307692308, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 17973, 5000, 3594.6, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5278, 0.9473285335354301, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9911, 0.20179598425991324, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3830, 5000, 766.0, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 1, 7924, 0.12619888944977284, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 1, 5070, 0.1972386587771203, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 6661, 0.3002552169343943, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 9689, 0.20641965115078956, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 1, 7650, 0.13071895424836602, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 139, 5007, 27.76113441182345, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 2, 8175, 0.24464831804281348, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 86, 5029, 17.10081527142573, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 134, 5030, 26.640159045725646, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 242, 5014, 48.26485839648983, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 1415, 5000, 283.0, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 69, 5032, 13.712241653418124, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 1194, 5001, 238.75224955008997, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 1, 41059, 0.024355196181105238, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9902, 0.20197939810139365, True
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 2035, 5002, 406.8372650939624, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 70, 5003, 13.991605036977814, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 34, 5041, 6.7446935131918275, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4513, 5000, 902.5999999999999, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 41, 5070, 8.086785009861932, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2241, 5001, 448.1103779244151, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 143, 5025, 28.457711442786067, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4198, 5001, 839.4321135772846, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 4116, 5000, 823.2, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2320, 5000, 464, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 34495, 5000, 6899, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 30, 5043, 5.948839976204639, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 31, 5146, 6.024096385542169, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2880, 5000, 576, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 5838, 0.8564576909900651, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9916, 0.20169423154497781, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8914, 5000, 1782.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 29, 5173, 5.606031316450802, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 42, 5099, 8.236909197881937, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 171, 5002, 34.186325469812076, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 113, 5030, 22.46520874751491, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 41, 5096, 8.04552590266876, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 5117, 5000, 1023.4000000000001, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 75, 5007, 14.979029358897543, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4266, 5000, 853.1999999999999, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4075, 5000, 815, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6001, 5000, 1200.2, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 7117, 5000, 1423.4, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 2025, 5000, 405, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 28176, 5000, 5635.2, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6800, 1.176470588235294, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9927, 0.20147073637554144, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3964, 5000, 792.8, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 19, 5149, 3.6900369003690034, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 27, 5158, 5.234587049243893, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 7795, 0.25657472738935216, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 7909, 0.2528764698444809, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 17, 5121, 3.319664128099981, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2696, 5000, 539.2, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 12327, 0.08112273870365865, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 679, 5004, 135.69144684252598, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1535, 5011, 306.32608261823987, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1811, 5000, 362.20000000000005, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2523, 5000, 504.6, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 623, 5001, 124.5750849830034, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 17728, 5002, 3544.1823270691725, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5329, 0.9382623381497466, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9916, 0.20169423154497781, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3807, 5001, 761.24775044991, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 1, 7864, 0.12716174974567648, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 2, 10050, 0.1990049751243781, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 6672, 0.29976019184652275, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 9693, 0.2063344681729083, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 1, 7630, 0.1310615989515072, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 139, 5010, 27.744510978043913, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 2, 8100, 0.2469135802469136, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 87, 5022, 17.323775388291516, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 136, 5011, 27.140291359010178, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 246, 5004, 49.16067146282973, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 1417, 5003, 283.2300619628223, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 66, 5007, 13.181545835829839, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 1193, 5001, 238.5522895420916, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 1, 41034, 0.02437003460544914, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9907, 0.20187746038154838, True
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), native, 2071, 5000, 414.2, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), gnome, 71, 5020, 14.143426294820717, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), shaker, 34, 5009, 6.787781992413655, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), comb, 4511, 5000, 902.2, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), fshell, 41, 5096, 8.04552590266876, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), heap, 2230, 5002, 445.8216713314674, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), merge, 2868, 5000, 573.6, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), quick, 4202, 5001, 840.2319536092782, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bucket, 4080, 5000, 816, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bubble, 30, 5039, 5.953562214725144, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), pigeon, 34515, 5000, 6903, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), select, 31, 5117, 6.058237248387727, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), insert, 143, 5026, 28.452049343414245, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), radix, 2314, 5000, 462.8, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), bogo, 5, 5600, 0.8928571428571428, true
+TypeScript/Node.js v16.12.0 (x64), Windows_NT 10.0.19042 (x64), sleep, 2, 9905, 0.20191822311963656, true
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), native, 8694, 5000, 1738.8, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bubble, 28, 5107, 5.482670843939691, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), select, 34, 5110, 6.653620352250489, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), insert, 179, 5007, 35.749950069902134, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), gnome, 114, 5014, 22.736338252891905, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), shaker, 41, 5016, 8.17384370015949, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), comb, 5299, 5000, 1059.8000000000002, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), fshell, 80, 5059, 15.813401858074716, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), heap, 4240, 5000, 848, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), merge, 4290, 5000, 858, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), quick, 6133, 5000, 1226.6, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bucket, 7181, 5000, 1436.1999999999998, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), radix, 2172, 5000, 434.40000000000003, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), pigeon, 28148, 5000, 5629.6, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), bogo, 8, 6571, 1.2174707046111701, True
+C#/.NET 5.0.11 (X64), Microsoft Windows NT 10.0.19042.0 (X64), sleep, 2, 9912, 0.20177562550443906, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 4003, 5000, 800.6, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 19, 5055, 3.758654797230465, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 23, 5145, 4.470359572400389, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 7835, 0.2552648372686662, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 7949, 0.2516039753428104, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 17, 5085, 3.343166175024582, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 2634, 5000, 526.8000000000001, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 1, 12455, 0.08028904054596547, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 606, 5004, 121.1031175059952, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 1584, 5000, 316.8, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 1855, 5001, 370.9258148370326, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 2513, 5000, 502.6, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 641, 5013, 127.86754438460005, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 17819, 5000, 3563.8, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 5, 5286, 0.9458948164964056, True
+Python/PyPy3 3.8.12 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9933, 0.20134903855834088, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), native, 3819, 5000, 763.8000000000001, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bubble, 1, 8004, 0.12493753123438281, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), select, 1, 5095, 0.19627085377821393, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), insert, 2, 6677, 0.29953571963456643, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), gnome, 2, 9897, 0.2020814388198444, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), shaker, 1, 7636, 0.13095861707700368, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), comb, 136, 5014, 27.124052652572797, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), fshell, 2, 8234, 0.24289531212047608, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), heap, 87, 5004, 17.38609112709832, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), merge, 139, 5019, 27.694759912333136, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), quick, 255, 5008, 50.9185303514377, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bucket, 1418, 5001, 283.5432913417317, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), radix, 68, 5053, 13.45735206807837, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), pigeon, 1185, 5000, 237.0, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), bogo, 1, 40232, 0.024855836150328096, True
+Python/Python 3.10.0 (64bit), Windows-10-10.0.19042-SP0 (AMD64), sleep, 2, 9909, 0.20183671409829448, True
